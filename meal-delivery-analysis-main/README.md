@@ -40,10 +40,6 @@ This analysis was conducted with a few key constraints that limit certain conclu
    _🔍 Impact: Restricts analysis on logistics, timeliness, and customer satisfaction._
 
 
-##  🛠️ Tools Used
-
-- SQL (Data Cleaning & Analysis)
-- Excel (Dashboard & Visualizations)
 
  🔗 [LinkedIn](https://www.linkedin.com/in/joshua-opadoja-5682592b5)
  🔗 [X(Twitter)](https://x.com/JDataCraft?t=lf1r_jM5QHj6FRG15XdNTA&s=09)
